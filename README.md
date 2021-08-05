@@ -1,5 +1,5 @@
 # nikbakht_diamond_elife
-Data and code associated with the manuscript by Nikbakht and Diamond (2021)-Conserved visual capacity of rats under red light (https://elifesciences.org/articles/66429 DOI: DOI: 10.7554/eLife.66429)
+Data and code associated with the manuscript by Nikbakht and Diamond (2021)-Conserved visual capacity of rats under red light (https://elifesciences.org/articles/66429 DOI: 10.7554/eLife.66429)
 ## Scripts
 plot_behavior.m contains MATLAB scripts used for analysis of the behavioral results shown in figures 1-2 as well as figure supplements.
 plot_spect.m contains MATLAB script for analysis of the spectral analysis shown in figure 1(D) and associated figure supplements.
