@@ -1,0 +1,8 @@
+# Ignore list for matlab
+
+# output and autosave files
+*.asv
+*.pdf
+*.jpg
+*.jpeg
+*.fig
